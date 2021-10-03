@@ -1,0 +1,18 @@
+{
+	"name": "Google Meet Account Switcher",
+	"version": "1.0.0",
+	"description": "Quickly switch between multiple accounts in google meet",
+	"permissions": ["activeTab", "https://meet.google.com/*"],
+	"manifest_version": 2,
+	"browser_action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"64": "icons/icon64.png",
+			"128": "icons/icon128.png"
+		}
+	},
+	"icons": {
+		"64": "icons/icon64.png",
+		"128": "icons/icon128.png"
+	}
+}
