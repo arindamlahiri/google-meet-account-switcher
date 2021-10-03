@@ -3,6 +3,8 @@
 Quickly switch between multiple accounts in Google Meet. <br/>
 "Why I can't just use the 'Switch Account' feature in Meet?", I hear you ask. When you use that, you are redirected to a new page where you select another account and then you are redirected back. On the other hand when you use this extension, you just need 2 clicks and it's done.
 
+## Contents: <!-- omit in toc -->
+
 - [Setup](#setup)
 - [Installation](#installation)
 - [Demo](#demo)
