@@ -31,6 +31,8 @@ Here's how my `accounts.js` file looks like(Note: I don't use my default account
 
 ## Demo
 
+![demo gif](./demo.gif)
+
 ## Feedback
 
 If you have any feedback, good or bad, feel free to reach out to me on [Twitter](https://twitter.com/arindamcodes) 😃
