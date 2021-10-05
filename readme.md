@@ -35,4 +35,5 @@ Here's how my `accounts.js` file looks like(Note: I don't use my default account
 
 ## Feedback
 
-If you have any feedback, good or bad, feel free to reach out to me on [Twitter](https://twitter.com/arindamcodes) 😃
+If you have any feedback, good or bad, feel free to reach out to me on [Twitter](https://twitter.com/arindamcodes) 😃 <br/>
+Also please 🌟 this repository if you find the extension useful 😊
